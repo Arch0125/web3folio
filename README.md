@@ -1,4 +1,4 @@
-<img width="1470" alt="Screenshot 2022-09-03 at 2 51 58 PM" src="https://user-images.githubusercontent.com/50898928/188264442-9f4835c0-ea7c-49c7-bc2e-c3a372d9d183.png">
+
 
 ## Built With
 
