@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Salaried3",
+    "desc": "Salaried - Project for Polygon Fellowship'22, a brief overview : A Payment Streams Tooling for DAOs/Orgs to stream salaries in ERC20 tokens over a period of time and allowing recipients to borrow under-collateral loans against upcoming salary. The ERC20 Token streaming is based on the EIP1620, the tokens don't really get transferred to wallet in realtime, rather locked in the contract and calculated the withdrawal amount calculating rate and time locked.",
+    "date": "Jul 2022 - present",
+    "code": "https://github.com/Arch0125/salariedxyz",
+    "gallery": "https://devfolio.co/projects/reward-bc10",
+    "live": "",
+    "tags": ["all", "web 3"]
+  },
+  {
+    "title": "PayStream",
+    "desc": "PayStream provides an all-in-one platform to manage one time and streamed payments along with generating payslips, invoices, certificates. We also provide Zaps feature to allow users to create custom payment pages from where they can manage registrations, subscriptions",
+    "date": "Jun 2022",
+    "code": "https://github.com/Arch0125/PayStream",
+    "gallery": "https://devfolio.co/projects/paystream-2a5a",
+    "tags": ["all", "web 3"]
+  },
+  {
+    "title": "MicroPay",
+    "desc": "P2P Crypto Lending protocol, that allows to user lend and borrow crypto assets in a trustless manner. ",
+    "date": "Jun 2022",
+    "code": "https://github.com/Arch0125/MicroPay-Hackathon",
+    "gallery": "https://devfolio.co/projects/micropay-47e1",
+    "tags": ["all", "web 3"]
+  },
+  {
+    "title": "OFFSwap",
+    "desc": "A Decentralised Exchange aggregator that allows users to sign transaction offline and check the best swapping offers and broadcasts the transaction onchain, reducing the risk of leaking of private keys and automation of swaps for future transactions.",
+    "date": "Nov 2021 - Dec 2021",
+    "code": "https://github.com/Arch0125/coindcxnext",
+    "gallery": "https://devfolio.co/projects/offswap-9139",
+    "tags": ["all", "web 3"]
+  },
+  {
+    "title": "CryptMyCert",
+    "desc": "CryptMyCert provides a web3 alternative to Certificate verification service most frequently used by Hackathon Organizers. With web3 integrated into it the solution provides a much more secured and tamper-proof certificate distribution, which is identified by an unique Hash",
+    "date": "Jun 2021 - Nov 2021",
+    "code": "https://github.com/Arch0125/CryptMyCert-Nakshatra",
+    "gallery": "https://devfolio.co/projects/cryptmycert-919e",
+    "tags": ["all", "web3"]
+  }
+]
