@@ -9,7 +9,6 @@ type projects = {
   date: string;
   gallery: string | undefined;
   code: string | undefined;
-  live: string | undefined;
   tags: string[];
 }[];
 
@@ -39,7 +38,6 @@ export const Projects = () => {
                   date={project.date}
                   code={project.code}
                   gallery={project.gallery}
-                  live={project.live}
                 />
               );
             })}
